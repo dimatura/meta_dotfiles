@@ -7,6 +7,10 @@ repositories:
     type: git
     url: git@github.com:dimatura/dot_X.git
     version: master
+  dot_bashrc:
+    type: git
+    url: git@github.com:dimatura/dot_bashrc.git
+    version: master
   dot_cheat:
     type: git
     url: git@github.com:dimatura/dot_cheat.git
@@ -74,4 +78,8 @@ repositories:
   dot_vim_lite:
     type: git
     url: git@github.com:dimatura/dot_vim_lite.git
+    version: master
+  meta_dotfiles:
+    type: git
+    url: git@github.com:dimatura/meta_dotfiles.git
     version: master
