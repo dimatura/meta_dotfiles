@@ -1,0 +1,77 @@
+repositories:
+  dot_R:
+    type: git
+    url: git@github.com:dimatura/dot_R.git
+    version: master
+  dot_X:
+    type: git
+    url: git@github.com:dimatura/dot_X.git
+    version: master
+  dot_cheat:
+    type: git
+    url: git@github.com:dimatura/dot_cheat.git
+    version: master
+  dot_clang-format:
+    type: git
+    url: git@github.com:dimatura/dot_clang-format.git
+    version: master
+  dot_condarc:
+    type: git
+    url: git@github.com:dimatura/dot_condarc.git
+    version: master
+  dot_conkyrc:
+    type: git
+    url: git@github.com:dimatura/dot_conkyrc.git
+    version: master
+  dot_git:
+    type: git
+    url: git@github.com:dimatura/dot_git.git
+    version: master
+  dot_hgrc:
+    type: git
+    url: git@github.com:dimatura/dot_hgrc.git
+    version: master
+  dot_latexmkrc:
+    type: git
+    url: git@github.com:dimatura/dot_latexmkrc.git
+    version: master
+  dot_mc:
+    type: git
+    url: git@github.com:dimatura/dot_mc.git
+    version: master
+  dot_pdbrc:
+    type: git
+    url: git@github.com:dimatura/dot_pdbrc.git
+    version: master
+  dot_povray:
+    type: git
+    url: git@github.com:dimatura/dot_povray.git
+    version: master
+  dot_ranger:
+    type: git
+    url: git@github.com:dimatura/dot_ranger.git
+    version: master
+  dot_ratpoison:
+    type: git
+    url: git@github.com:dimatura/dot_ratpoison.git
+    version: master
+  dot_ros:
+    type: git
+    url: git@github.com:dimatura/dot_ros.git
+    version: master
+  dot_screen:
+    type: git
+    url: git@github.com:dimatura/dot_screen.git
+    version: master
+  dot_tmux:
+    type: git
+    url: git@github.com:dimatura/dot_tmux.git
+    version: master
+  dot_vim:
+    type: git
+    url: git@github.com:dimatura/dot_vim.git
+    version: master
+  dot_vim_lite:
+    type: git
+    url: git@github.com:dimatura/dot_vim_lite.git
+    version: master
