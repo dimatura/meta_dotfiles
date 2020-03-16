@@ -1,3 +1,3 @@
 
 * uses `vcs` 
-* packages are stow-installable: `stow <pkg> --no-folding -t ~/`
+* packages are stow-installable: `stow --no-folding -t ~/` <pkg>
