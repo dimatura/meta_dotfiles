@@ -1,1 +1,1 @@
-vcs export < meta_dotfiles/repos.yaml
+vcs import < meta_dotfiles/repos.yaml
