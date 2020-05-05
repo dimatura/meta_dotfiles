@@ -67,6 +67,10 @@ repositories:
     type: git
     url: git@github.com:dimatura/dot_screen.git
     version: master
+  dot_ssh:
+    type: git
+    url: git@github.com:dimatura/dot_ssh.git
+    version: master
   dot_tmux:
     type: git
     url: git@github.com:dimatura/dot_tmux.git
